@@ -6,7 +6,7 @@
 - 🔌 Hardware Design
 - 💻 Embedded Systems
 - 🛠 PCB Design
-- 🤖 AI-assisted Engineering
+- 🤖 Agent Assisted Engineering
 
 ## Projects
 - 嵌入式硬件项目
